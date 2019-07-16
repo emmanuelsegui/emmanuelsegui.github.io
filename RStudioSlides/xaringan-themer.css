@@ -32,7 +32,7 @@ h1, h2, h3 {
   color: #000;
 }
 .remark-slide-content {
-  background-color: #FFF;
+  background-color: #666666;
   font-size: 20px;
   
   
@@ -81,7 +81,7 @@ a, a > code {
   background-color: rgba(255,255,0,0.5);
 }
 .inverse {
-  background-color: #272822;
+  
   color: #d6d6d6;
   
 }
@@ -92,7 +92,7 @@ a, a > code {
   color: #d6d6d6;
 }
 .title-slide {
-  background-color: #272822;
+  
   
   
   
@@ -144,11 +144,11 @@ blockquote {
 th, td { padding: 5px; }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
 table.dataTable tbody {
-  background-color: #FFF;
+  background-color: #666666;
   color: #000;
 }
 table.dataTable.display tbody tr.odd {
-  background-color: #FFF;
+  background-color: #666666;
 }
 table.dataTable.display tbody tr.even {
   background-color: #eee;
